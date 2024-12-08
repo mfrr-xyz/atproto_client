@@ -1,0 +1,1 @@
+Hard fork https://github.com/MarshalX/atproto/tree/main/packages/atproto_client
